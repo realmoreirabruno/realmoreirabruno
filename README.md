@@ -44,8 +44,8 @@ You can click the Preview link to take a look at your changes.
 
 <br>
   <p align = "center">
-    <img height="180em"  src = "https://github-readme-stats.vercel.app/api?username=doc-souhail&show_icons=true&theme=radical&line_height=27">
-    <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=doc-souhail&layout=compact&langs_count=10&theme=radical">
-    <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=doc-souhail&layout=compact&theme=radical" />
+    <img height="180em"  src = "https://github-readme-stats.vercel.app/api?username=realmoreirabruno&show_icons=true&theme=radical&line_height=27">
+    <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=realmoreirabruno&layout=compact&langs_count=10&theme=radical">
+    <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=realmoreirabruno&layout=compact&theme=radical" />
   </p>
 </br>
