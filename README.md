@@ -20,12 +20,14 @@ You can click the Preview link to take a look at your changes.
 </h2>
 
 <h2 align="center">
-  ⚙️ Technologies I'm learning
+  📚 Technologies I'm learning
 </h2>
 
-<h2 align="center">
-  [![My Skills](https://skillicons.dev/icons?i=,gcp,azure,react,vue,flutter&perline=4)](https://skillicons.dev)
-</h2>
+<p align="center">
+  <strong>Programming Languages:</strong><br>
+  
+  [![My Skills](https://skillicons.dev/icons?i=ts,js,java,go,cs&theme=dark)](https://skillicons.dev)
+</p>
 
 <h2 align="center">🌎 Find me all around the web</h2>
 
