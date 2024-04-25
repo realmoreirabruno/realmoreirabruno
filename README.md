@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
   👋 Hi, I’m Bruno Moreira
-</h2>
+</h1>
 
 - 👀 I've worked for 2 years in Android Development for Motorola.
 - 📎 I have worked with Kotlin, Java, MVVM, Firebase, SCRUM, Jetpack Compose.
