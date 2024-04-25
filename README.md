@@ -11,29 +11,22 @@
 realmoreirabruno/realmoreirabruno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 align="center">
-  ⚙️ Technologies I used
-</h2>
-
-<p align="left">
-  <strong></strong><br>
+<p align="center">
+  <strong>⚙️ Technologies I used (Mobile)</strong><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,android,flutter,dart,room,firebase&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,flutter,dart,firebase,mvvm&theme=dark)](https://skillicons.dev)
 </p>
 
-<h2 align="center">
-  📚 Technologies I'm learning
-</h2>
+<p align="center">
+  <strong>📚 Technologies I'm learning (FullStack)</strong><br>
 
-<p align="left">
-  <strong></strong><br>
-
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,spring,dotnet,react,vue,angular,nextjs&theme=dark&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,rabbitmq,html,css,js,react&theme=dark&perline=4)](https://skillicons.dev)
 </p>
 
 <h2 align="center">🌎 Find me all around the web</h2>
 
 <div align="center">
+  
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
 </div>
 
