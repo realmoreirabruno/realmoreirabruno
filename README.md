@@ -23,9 +23,7 @@ You can click the Preview link to take a look at your changes.
   📚 Technologies I'm learning
 </h2>
 
-<p align="center">
-  <strong>Programming Languages:</strong><br>
-  
+<p align="center">  
   [![My Skills](https://skillicons.dev/icons?i=ts,js,java,go,cs&theme=dark)](https://skillicons.dev)
 </p>
 
