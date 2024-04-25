@@ -15,16 +15,20 @@ You can click the Preview link to take a look at your changes.
   ⚙️ Technologies I used
 </h2>
 
-<h2 align="center">
-  [![My Skills](https://skillicons.dev/icons?i=,kotlin,java,flutter,dart,firebase,room,junit,mockito,figma,git&perline=4)](https://skillicons.dev)
-</h2>
+<p align="left">
+  <strong></strong><br>
+  
+  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,android,flutter,dart,room,firebase&theme=dark)](https://skillicons.dev)
+</p>
 
 <h2 align="center">
   📚 Technologies I'm learning
 </h2>
 
-<p align="center">  
-  [![My Skills](https://skillicons.dev/icons?i=ts,js,java,go,cs&theme=dark)](https://skillicons.dev)
+<p align="left">
+  <strong></strong><br>
+
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,spring,dotnet,react,vue,angular,nextjs&theme=dark&perline=4)](https://skillicons.dev)
 </p>
 
 <h2 align="center">🌎 Find me all around the web</h2>
