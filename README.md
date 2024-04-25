@@ -18,9 +18,15 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-  <strong>📚 Technologies I'm learning (FullStack)</strong><br>
+  <strong>📚 Technologies I'm learning (Backend)</strong><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,rabbitmq,html,css,js,react&theme=dark&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,rabbitmq&theme=dark&perline=5)](https://skillicons.dev)
+</p>
+
+<p align="center">
+  <strong>📚 Technologies I'm learning (Frontend)</strong><br>
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=dark&perline=5)](https://skillicons.dev)
 </p>
 
 <h2 align="center">🌎 Find me all around the web</h2>
